@@ -1,0 +1,2 @@
+# zuridjango
+Everything django
